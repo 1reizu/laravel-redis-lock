@@ -12,9 +12,9 @@
         }
     ],
     "require": {
-        "php": "^7.0",
-        "illuminate/redis": "5.1 - 7",
-        "illuminate/support": "5.1 - 7",
+        "php": "^7.0 || ^8.0",
+        "illuminate/redis": "5.1 - 8",
+        "illuminate/support": "5.1 - 8",
         "predis/predis": "~1.1"
     },
     "autoload": {
